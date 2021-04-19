@@ -1,0 +1,5 @@
+# ATO ASAP Playbook
+
+The fundamental failure of federal technology security is the costly expenditure of time and resources on processes that do not make our systems more secure. Our muddled compliance activities allow insecure legacy systems to operate longer, increasing the risk of cyber intrusions and other system meltdowns. The vulnerabilities introduced by these lengthy processes have grave consequences for the nation at large.
+    
+In federal technology, the approval to launch a new Information Technology (IT) system is known as an Authority to Operate (ATO). In its current state, the process of obtaining an ATO is resource-intensive, time-consuming, and highly cumbersome. We created a playbook of key “plays” drawn from successful practices from successful automation initiatives that, if followed together, will help the U.S. government operationalize the automation of ATO processes (also known as “compliance as code”) and position agencies to modernize technology risk management as a whole.
